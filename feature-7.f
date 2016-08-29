@@ -6,4 +6,4 @@ def Blah
 		message = m
 
 	def reset()
-		message = "Hello from the other side"
+		message = "Ali baba"
