@@ -6,4 +6,9 @@ def Blah
 		message = m
 
 	def reset()
+
 		message = "Ali baba"
+
+		def set autor(m)
+
+
