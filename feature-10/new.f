@@ -3,5 +3,7 @@ public class newClass {
 
 	System.out.println("Hello newClass");
 	}
+
+	System.out.println("Master changes");
 }
 
