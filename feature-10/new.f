@@ -1,7 +1,10 @@
 public class newClass {
 	public static void main(String[] args) {
 
-	System.out.println("Hello newClass");
+
+	String s = "ba";
+
+	System.out.println("Hello newClass " + s + m + p);
 	}
 
 	System.out.println("Master changes");
